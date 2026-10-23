@@ -1,0 +1,14 @@
+
+# Playwright
+
+
+dist/
+downloads/
+reports/html-report/
+reports/json-report/
+reports/junit/
+reports/logs/*.log
+test-results/
+playwright-report/
+.env
+!.env.dev.exampl
