@@ -29,6 +29,6 @@ export class ScrollPage extends BasePage_SOLID{
         this.scrollDirectlyToElement(this.bestSellingGifts);
     }
 
-
+//
 
 }
